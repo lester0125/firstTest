@@ -1,0 +1,15 @@
+C:\Users\Lester\source\repos\CalcSum\bin\Debug\net6.0\CalcSum.exe
+C:\Users\Lester\source\repos\CalcSum\bin\Debug\net6.0\CalcSum.deps.json
+C:\Users\Lester\source\repos\CalcSum\bin\Debug\net6.0\CalcSum.runtimeconfig.json
+C:\Users\Lester\source\repos\CalcSum\bin\Debug\net6.0\CalcSum.dll
+C:\Users\Lester\source\repos\CalcSum\bin\Debug\net6.0\CalcSum.pdb
+C:\Users\Lester\source\repos\CalcSum\obj\Debug\net6.0\CalcSum.csproj.AssemblyReference.cache
+C:\Users\Lester\source\repos\CalcSum\obj\Debug\net6.0\CalcSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lester\source\repos\CalcSum\obj\Debug\net6.0\CalcSum.AssemblyInfoInputs.cache
+C:\Users\Lester\source\repos\CalcSum\obj\Debug\net6.0\CalcSum.AssemblyInfo.cs
+C:\Users\Lester\source\repos\CalcSum\obj\Debug\net6.0\CalcSum.csproj.CoreCompileInputs.cache
+C:\Users\Lester\source\repos\CalcSum\obj\Debug\net6.0\CalcSum.dll
+C:\Users\Lester\source\repos\CalcSum\obj\Debug\net6.0\refint\CalcSum.dll
+C:\Users\Lester\source\repos\CalcSum\obj\Debug\net6.0\CalcSum.pdb
+C:\Users\Lester\source\repos\CalcSum\obj\Debug\net6.0\CalcSum.genruntimeconfig.cache
+C:\Users\Lester\source\repos\CalcSum\obj\Debug\net6.0\ref\CalcSum.dll
